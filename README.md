@@ -9,7 +9,9 @@ Backend Engineer Challenge
     * Run `cd sunrise`
     * Run `npm install`
     * Rename `config.example.json` to `config.json`
-    * Edit `config.json` and replace `GOOGLE-API-CLIENT-ID` with your Google API Client ID, and replace `GOOGLE-API-CLIENT-SECRET` with your Google API Client Secret.
+    * Edit `config.json`:
+        * Replace `GOOGLE-API-CLIENT-ID` with your Google API Client ID
+        * Replace `GOOGLE-API-CLIENT-SECRET` with your Google API Client Secret.
 
 ## Start Server
 Run `node app.js`
