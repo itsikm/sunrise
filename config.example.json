@@ -1,0 +1,8 @@
+{
+  "google": {
+    "clientID": "GOOGLE-API-CLIENT-ID",
+    "clientSecret": "GOOGLE-API-CLIENT-SECRET",
+    "scope": "openid email https://www.googleapis.com/auth/calendar",
+    "callbackURL": "http://localhost:9000/authenticate/callback"
+  }
+}
